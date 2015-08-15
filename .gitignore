@@ -30,3 +30,5 @@
 
 # Debug files
 *.dSYM/
+/Ch1/cards
+/Ch1/rocks
