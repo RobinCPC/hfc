@@ -32,3 +32,9 @@
 *.dSYM/
 /Ch1/cards
 /Ch1/rocks
+/Ch2/food
+/Ch2/index_text
+/Ch2/scanf_test
+/Ch2/southeast
+/Ch2/text_search
+/Ch2/monte
