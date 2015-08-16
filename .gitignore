@@ -30,6 +30,8 @@
 
 # Debug files
 *.dSYM/
+
+# Ubuntu executables
 /Ch1/cards
 /Ch1/rocks
 /Ch2/food
@@ -39,3 +41,7 @@
 /Ch2/text_search
 /Ch2/monte
 /Ch3/geo2json
+/Ch4/message_hider
+/Ch4/totaller
+
+
